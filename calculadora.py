@@ -10,6 +10,9 @@ def multiplica(a, b):
 def divide(a, b):
 	# testar se o b é diferente de zero
 	print("A divisão é: ", a/b)
+	if (num2=0)
+		print("não é possível dividir por 0")
+	
 
 #Programa principal
 
